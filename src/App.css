@@ -171,6 +171,7 @@ body {
 
 .leavebtn {
   background: var(--primary-color);
+  color: whitesmoke;
 }
 
 .CodeMirror {
